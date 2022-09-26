@@ -13,7 +13,7 @@ Back-end development for an e-commerce website
 * [Walkthrough Link](#walkthrough-link)
 
 ## Installation
-Please download inquirer and mysql2 modules from npm.
+Please download sequalize, mysql2, dotenv, express.js, node.js
 
 ## Contribution
 Made with ❤️ by Courtney
